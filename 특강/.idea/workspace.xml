@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f8a75b9-db20-4ef5-8be3-d75c9edf26ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../sinagong_associ/Chapter8_지도학습으로 AI 모델링하기_딥러닝.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../sinagong_associ/Chapter8_지도학습으로 AI 모델링하기_딥러닝.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sinagong_associ/Chapter8_지도학습으로 AI 모델링하기_머신러닝.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../sinagong_associ/Chapter8_지도학습으로 AI 모델링하기_머신러닝.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(기본)210_IRIS_머신러닝_딥러닝_템플릿_문제_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(기본)210_IRIS_머신러닝_딥러닝_템플릿_문제_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(기본)211_IRIS_머신러닝_딥러닝_템플릿_정답_v2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(기본)211_IRIS_머신러닝_딥러닝_템플릿_정답_v2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(집중)Python활용AI모델링_01.전처리_정답_v4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(집중)Python활용AI모델링_01.전처리_정답_v4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(집중)Python활용AI모델링_01.전처리_퀴즈_easy_v4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(집중)Python활용AI모델링_01.전처리_퀴즈_easy_v4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(집중)Python활용AI모델링_02.머신러닝_딥러닝_정답_v4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(집중)Python활용AI모델링_02.머신러닝_딥러닝_정답_v4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(집중)Python활용AI모델링_02.머신러닝_딥러닝_퀴즈_easy_v4.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/(집중)Python활용AI모델링_02.머신러닝_딥러닝_퀴즈_easy_v4.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/(집중)data_v1.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2YwHSAeIRi6hr0pEEAdeN8hOYYe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f8a75b9-db20-4ef5-8be3-d75c9edf26ac" name="Changes" comment="" />
+      <created>1701429718209</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701429718209</updated>
+    </task>
+    <servers />
+  </component>
+</project>
